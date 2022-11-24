@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1
 
 # bump: brotli /BROTLI_VERSION=([\d.]+)/ https://github.com/google/brotli.git|*
 # bump: brotli after ./hashupdate Dockerfile BROTLI $LATEST
